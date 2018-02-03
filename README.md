@@ -1,2 +1,1 @@
-# docker
-Dockerfiles for development
+Dockerfiles to create various dev build images.
